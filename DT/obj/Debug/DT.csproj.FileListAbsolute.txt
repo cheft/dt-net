@@ -1,0 +1,6 @@
+C:\Resources\Develop\DT.NET\DT\bin\Debug\DT.exe.config
+C:\Resources\Develop\DT.NET\DT\bin\Debug\DT.exe
+C:\Resources\Develop\DT.NET\DT\bin\Debug\DT.pdb
+C:\Resources\Develop\DT.NET\DT\obj\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DT.NET\DT\obj\Debug\DT.exe
+C:\Resources\Develop\DT.NET\DT\obj\Debug\DT.pdb

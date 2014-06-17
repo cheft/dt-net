@@ -1,0 +1,6 @@
+C:\Resources\Develop\DT.NET\Launch\bin\Debug\Launch.exe
+C:\Resources\Develop\DT.NET\Launch\bin\Debug\Launch.pdb
+C:\Resources\Develop\DT.NET\Launch\obj\Debug\ResolveAssemblyReference.cache
+C:\Resources\Develop\DT.NET\Launch\obj\Debug\Launch.exe
+C:\Resources\Develop\DT.NET\Launch\obj\Debug\Launch.pdb
+C:\Resources\Develop\DT.NET\Launch\bin\Debug\Launch.exe.config
